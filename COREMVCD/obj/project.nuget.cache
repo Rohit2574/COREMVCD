@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0Vg81E428ZTmWnw+Lrl4RpmY4soMr+qC9Z4i/mMpuCzUv7qRUQRKi2Zw1srphOKGiVV3SRIow+jH5cqwTzD1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahul\\source\\repos\\COREMVCD\\COREMVCD\\COREMVCD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
